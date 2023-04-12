@@ -10,6 +10,8 @@
  train the model which uses MFCC  to extract features from them. Then it uses SVM algorithm. After it is trained then an external
  input lung sound is given to it to predict if this sound is wheezing or not.  
  
+>### Dataset url ###
 
+https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database
 ---
 >### Hardware Components ###
